@@ -1,5 +1,5 @@
 require 'pry'
-
+111
 class Array
   def deep_index(data)
 
